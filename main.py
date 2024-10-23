@@ -27,3 +27,6 @@ def main():
 
         else:
             running = False
+
+if __name__ == "__main__":
+    main()
