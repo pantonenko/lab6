@@ -1,7 +1,7 @@
 # main() method for simple python encoder (Polina Antonenko)
 
-import encode
-import decode
+from encode import encode
+from decode import decode
 
 def main():
     password = 0
